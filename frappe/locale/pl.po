@@ -29241,7 +29241,7 @@ msgstr ""
 
 #: frappe/client.py:458
 msgid "You need {0} permission to fetch values from {1} {2}"
-msgstr ""
+msgstr "Potrzebujesz uprawnienia {0} aby pobrać wartości z {1} {2}"
 
 #: frappe/public/js/frappe/form/footer/form_timeline.js:420
 msgctxt "Form timeline"
