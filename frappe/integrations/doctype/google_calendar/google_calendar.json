@@ -44,7 +44,7 @@
       "reqd": 1
      },
      {
-      "description": "The name that will appear in Google Calendar",
+      "description": "The name that will appear in Google Kalendar",
       "fieldname": "calendar_name",
       "fieldtype": "Data",
       "in_list_view": 1,
